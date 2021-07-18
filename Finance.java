@@ -1,8 +1,8 @@
-package Assignment1;
+package Assignment2;
 
 import java.util.Scanner;
 
-public class Finance extends GroceryBackground{
+public class Finance { //inheritance
 	
     Scanner scan = new Scanner(System.in);
 	
@@ -66,7 +66,6 @@ public class Finance extends GroceryBackground{
 		
 	}
 
-	public void printinfo() {
 
 }
-}
+
