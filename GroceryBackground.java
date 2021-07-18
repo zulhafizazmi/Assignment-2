@@ -1,6 +1,4 @@
-package Assignment1;
-
-import java.util.Scanner;
+package Assignment2;
 
 public abstract class GroceryBackground {
 	
@@ -13,7 +11,6 @@ public abstract class GroceryBackground {
 		this.location = "Tumpat";
 		this.contact = "097193642";
 
-		print();
 	}
 	
 	public void print() {
